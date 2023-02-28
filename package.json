@@ -28,8 +28,13 @@
     "test": "grunt"
   },
   "dependencies": {
+ snyk-upgrade-a1af820338b4e724d488f6f27da878f8
+    "aws-sdk": "2.1310.0",
+    "mime-types": "2.0.x",
+
     "aws-sdk": "2.0.x",
     "mime-types": "2.1.35",
+ master
     "lodash": "4.17.x",
     "async": "0.9.x",
     "progress": "1.1.x"
